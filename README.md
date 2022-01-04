@@ -23,7 +23,7 @@ A blog site that allows user to post, comment and delete
 
 To install necessary dependencies, run the following command:
 
-npm install
+npm install, might be necessary to run these commands (npm install -g concurrently and npm install -g react-scripts)
 
 ## Usage
 
